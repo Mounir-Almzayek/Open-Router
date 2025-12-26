@@ -99,8 +99,3 @@ uvicorn app.main:app --reload
 ## Documentation
 
 See `docs/` directory for comprehensive documentation.
-
-## License
-
-MIT
-
